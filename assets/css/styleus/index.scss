@@ -11,6 +11,9 @@
 }
 
 .style-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
   display: block;
   transition: transform 0.3s ease-in-out;
 }
@@ -45,7 +48,8 @@
 @media(min-width: 992px) {
   .style-list {  
     width: 1240px;
-    margin: 0 -7px;
+    margin-left: -7px;
+    margin-right: -7px;
   }
 
   .style-item {
@@ -74,7 +78,7 @@
 
 @media(max-width: 576px) {
   .style-item {
-    height: 300px;
+    padding-top: 45%;
   }
 
   .style-item:hover img {

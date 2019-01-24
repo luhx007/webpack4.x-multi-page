@@ -15,7 +15,7 @@ importScripts("https://lvzhenbang.github.io/webpack4.x-multi-page/dist/workbox-v
 workbox.setConfig({modulePathPrefix: "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/workbox-v3.6.3"});
 
 importScripts(
-  "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/precache-manifest.f1900f05b75e539c0075101a34fc095c.js"
+  "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/precache-manifest.40fe2dc965254b4a8ef2f85492a7a7ab.js"
 );
 
 workbox.skipWaiting();

@@ -3,20 +3,16 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/sj_yw_health-01854438d84ca40d46317bf01e2efd44f8.png"
   },
   {
-    "revision": "f7bc5115b3dce5cf630cef23d01abab1",
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/favicon-384.png"
-  },
-  {
-    "revision": "8a38e52ef61f90c66502cbcf8d9243cd",
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/favicon-64.png"
-  },
-  {
     "revision": "088396c93d877429a5e5bd9beb4e9477",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/favicon-512.png"
   },
   {
     "revision": "a09e13ee94d51c524b7e2a728c7d4039",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/jquery.min.js"
+  },
+  {
+    "revision": "8a38e52ef61f90c66502cbcf8d9243cd",
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/favicon-64.png"
   },
   {
     "revision": "1b654be63a1c5a6604c883d96148af38",
@@ -54,7 +50,10 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/ywbk-cy-ysef7144fea552a43d9fe88efba59bbe21.jpg"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/banner-34a5897d5ca365e0a49bf18c779072ab5.jpg"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/banner-2de22490feb4a2386d0fb06d67b1f2f75.jpg"
+  },
+  {
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/m-17fc5092a9a7c28970a0a6484997d2626.jpg"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/m-21a32212eb5c0b995cffd1e00c76fc4c9.jpg"
@@ -147,10 +146,8 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/contactus.59793449eafea164d616.js"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/index.acc57aacd78bbbce9825.js"
-  },
-  {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/newscenter.b76ac168d1cc7531c239.js"
+    "revision": "f7bc5115b3dce5cf630cef23d01abab1",
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/favicon-384.png"
   },
   {
     "revision": "dd57e1b81c293946d2e806b220d98f20",
@@ -165,7 +162,10 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/favicon-120.png"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/recruitment.d16e1d870de022061dcd.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/index.acc57aacd78bbbce9825.js"
+  },
+  {
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/newscenter.b76ac168d1cc7531c239.js"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/sj-banner748b8c54414ad16f94afbc5a89497d2e.jpg"
@@ -240,7 +240,7 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/ywbk-cy-bailu1f2e914526fd29cf6bdd5189a1a38d73.png"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/m-17fc5092a9a7c28970a0a6484997d2626.jpg"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/banner-34a5897d5ca365e0a49bf18c779072ab5.jpg"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/ywbk-f-map577040010713a94ab61d151bbbd1ac9f.png"
@@ -279,11 +279,14 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/ywbk_health_shirancd00d7a215c288685b27ed7d1953b916.png"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/shzr.678ec3d6725f64fd1a2b.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/recruitment.d16e1d870de022061dcd.js"
   },
   {
     "revision": "9a371285a75cacb0ac6f8b738dabb831",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/contactus.html"
+  },
+  {
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/shzr.678ec3d6725f64fd1a2b.js"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/styleus.ef5a7fb0dd8910fb21ca.js"
@@ -326,10 +329,7 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/fonts/kt-GB2312.8a1e9fe86f7a9489ec091ec4b78af185.ttf"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/16511a40f72ef8fb0108a4261bfa6c63fa.jpg"
-  },
-  {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/188f52c9b5b011fa8946179c1f9093dfaa.jpg"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/17430de51801691f08ab4ec223f1ace77f.jpg"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/19ebd6002c364f48155103f8f73588f9b8.jpg"
@@ -371,25 +371,19 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/banner-185ac00d43704bbba9e57d89f1c6b77c2.jpg"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/banner-2de22490feb4a2386d0fb06d67b1f2f75.jpg"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/188f52c9b5b011fa8946179c1f9093dfaa.jpg"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/17430de51801691f08ab4ec223f1ace77f.jpg"
-  },
-  {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/127bbc7f306217c0b043ba510be2aa049f.jpg"
-  },
-  {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/07ae64f7cd3eb906c4dec8b4fb1ff171c1.jpg"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/01b19b661791e9cb9cd905ef2f7908d2e1.jpg"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/0814000d255e286994b658c6814002c697.jpg"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/151f2cfe0274a9f3fc9ab09305717ecbc.jpg"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/1-13ebe12c61f77d2d9547387bef7e453d0.jpg"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/1-13ebe12c61f77d2d9547387bef7e453d0.jpg"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/127bbc7f306217c0b043ba510be2aa049f.jpg"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/1-2f55d34517f8a39f339e1454076d0e8a3.jpg"
@@ -401,13 +395,22 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/1-4dab5136a03d3d64969e4bee6044cf811.jpg"
   },
   {
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/16511a40f72ef8fb0108a4261bfa6c63fa.jpg"
+  },
+  {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/154d13cea1443599d4767e149001b7df3d.jpg"
+  },
+  {
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/151f2cfe0274a9f3fc9ab09305717ecbc.jpg"
+  },
+  {
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/13df1541ccadd8cfc502a8a13314b0b7ba.jpg"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/141e9968b91b0c7f9c7d239faabef5da68.jpg"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/13df1541ccadd8cfc502a8a13314b0b7ba.jpg"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/07ae64f7cd3eb906c4dec8b4fb1ff171c1.jpg"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/06a35d0191934421414bf8f48a9b4d6304.jpg"
@@ -423,9 +426,6 @@ self.__precacheManifest = [
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/02f33f94d62eeae417a46fe90c92b9f732.jpg"
-  },
-  {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/01b19b661791e9cb9cd905ef2f7908d2e1.jpg"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/css/common.02dafab3470c353b9e24.css"

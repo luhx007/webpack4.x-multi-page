@@ -15,35 +15,35 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/favicon-64.png"
   },
   {
-    "revision": "1b654be63a1c5a6604c883d96148af38",
+    "revision": "1d8236006ffe4f06ba013491118eecd4",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/styleus.html"
   },
   {
-    "revision": "61b73c641e7e43983e1888d8fc2bace5",
+    "revision": "038b4cf3909935aa432f4c00e3c58a19",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/recruitment.html"
   },
   {
-    "revision": "96db9b6231749856b6ae2f263c3ec329",
+    "revision": "befe3e83774e08fbc8e6b77f5627e06d",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/sxy.html"
   },
   {
-    "revision": "3a0dc15a7697f41d1e5005b2c9de9220",
+    "revision": "8a8e11dd0748c67346b4adfa57bd3dc4",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/shzr.html"
   },
   {
-    "revision": "714f76b663e08d2d00a011969f7ba1c2",
+    "revision": "18c5a6315382aa755e59a99bc5f84a8a",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/newscenter.html"
   },
   {
-    "revision": "9a12ff775cb716ec6670a6a234b1ff52",
+    "revision": "afa7e4dce6365b29e515a7738f8ce9a9",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/ywbk.html"
   },
   {
-    "revision": "010b9589533fc89dc0597d4fb2e46301",
+    "revision": "2b2ff1a81913af227c1933bf65754cf6",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/zjsj.html"
   },
   {
-    "revision": "6a94e125f7e8a142a9176b59c9b883fc",
+    "revision": "c409bdf4db4ea20dec53e5c96126af33",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/index.html"
   },
   {
@@ -143,7 +143,7 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/logo6edba840a057aee9a3900d82a9f18093.png"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/contactus.59793449eafea164d616.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/contactus.4fd6fa5d081ac5a4ce47.js"
   },
   {
     "revision": "f7bc5115b3dce5cf630cef23d01abab1",
@@ -162,10 +162,10 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/favicon-120.png"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/index.acc57aacd78bbbce9825.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/index.da41a72f11e4010b69ab.js"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/newscenter.b76ac168d1cc7531c239.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/newscenter.2ff8d90566c154c45dcd.js"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/sj-banner748b8c54414ad16f94afbc5a89497d2e.jpg"
@@ -222,7 +222,7 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/sj_news-bg0f6e72e38c18c26f3956e173beef2269.jpg"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/common.02dafab3470c353b9e24.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/common.34970c94953202fa8679.js"
   },
   {
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/sj_yw_health-0290f3a88395cd58bf57d0cf9bbfe75306.png"
@@ -279,26 +279,26 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/ywbk_health_shirancd00d7a215c288685b27ed7d1953b916.png"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/recruitment.d16e1d870de022061dcd.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/recruitment.b7490a511c893b26932b.js"
   },
   {
-    "revision": "9a371285a75cacb0ac6f8b738dabb831",
+    "revision": "f833068f8a1410c64e14746013202589",
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/contactus.html"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/shzr.678ec3d6725f64fd1a2b.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/shzr.0ba74162483cc8990ac9.js"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/styleus.ef5a7fb0dd8910fb21ca.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/styleus.53cb878506cf967cff70.js"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/sxy.194fcdd2e54166a69e9b.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/sxy.76ee309f625b72f50b5a.js"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/ywbk.435a63c1501ae7f0e15b.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/ywbk.82c60d87d4c367489915.js"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/zjsj.d41400d87f5cec90c16f.js"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/js/zjsj.0b30c26df62e64e29ea8.js"
   },
   {
     "revision": "ea3395a3a603b1c1b8236d3b51e8d4f4",
@@ -428,6 +428,6 @@ self.__precacheManifest = [
     "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/imgs/02f33f94d62eeae417a46fe90c92b9f732.jpg"
   },
   {
-    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/css/common.02dafab3470c353b9e24.css"
+    "url": "https://lvzhenbang.github.io/webpack4.x-multi-page/dist/assets/css/common.34970c94953202fa8679.css"
   }
 ];
